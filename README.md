@@ -1,5 +1,5 @@
 # Sipml5 webrtc for Ecmascript
-Can be used in Angular and React
+Can be used in VueJS
 
 This is a Webrtc library for Ecmascript based on [Sipml5](https://www.doubango.org/sipml5/). It's a bridge between [Sipml5](https://www.doubango.org/sipml5/) and Ecmascript.
 
